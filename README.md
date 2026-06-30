@@ -1,5 +1,5 @@
 # Guia-de-estudo-para-estatistica-descritiva-e-inferencial
-O presente projeto visa utilizar o notebook LLM da Google para a criação de um guia de estudo em estatística descritiva e inferencial, fazendo com que o notebook responda como um professor no assunto.
+O presente projeto visa utilizar o NotebookLM da Google para a criação de um guia de estudo em estatística descritiva e inferencial, fazendo com que o notebook responda como um professor no assunto.
 <br>
 <br>
 Para a criação do guia, foram selecionados livros de estatísticas descritiva e inferencial que são ofertados gratuitamente (Tabela 1).
