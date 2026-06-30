@@ -1,6 +1,12 @@
 # Guia-de-estudo-para-estatistica-descritiva-e-inferencial
+**Apresentando a Estatística**
+<br>
 O presente projeto visa utilizar o NotebookLM da Google para a criação de um guia de estudo em estatística descritiva e inferencial, fazendo com que o notebook responda como um professor no assunto.
 <br>
+<br>
+**Metodologia**
+<br>
+**Curadoria**
 <br>
 Para a criação do guia, foram selecionados livros de estatísticas descritiva e inferencial que são ofertados gratuitamente (Tabela 1).
 <br>
@@ -15,6 +21,11 @@ Tabela 1: Lista de livros utilizados para a criação do guia de estudo em estat
 | Estatística: Inferência e Decisão | Bento José Ferreira Murteira| Sociedade Portuguesa de Estatística | https://www.spestatistica.pt/storage/app/uploads/public/673/a6a/4cc/673a6a4cc3775464846401.pdf| 
 | Estatística e Probabilidade | Jorge Luiz de Castro; Maria Wilda Fernandes; Rosa Lívia Freitas de Almeida | Editora da Universidade Estadual do Ceará – EdUECE | https://educapes.capes.gov.br/bitstream/capes/554261/2/Livro%20Estatistica%20e%20Probabilidade%20.pdf|
 | Estatística Básica | Pedro A. Morettin; Wilton de O. Bussab | Editora Saraiva | https://www.professores.uff.br/jutriavaldes/wp-content/uploads/sites/196/2019/08/Book_EstatBas-Morettin-Bussab.pdf |
-
+<br>
+<br>
+**Prompts de comando**
+<br>
+<br>
+**Resultados dos prompts**
 
 
